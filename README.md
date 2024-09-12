@@ -2,6 +2,8 @@
 
 Predictive Analytics
 
+All rights reserved.
+
 
 Dataset:
 
